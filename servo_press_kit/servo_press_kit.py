@@ -1,10 +1,3 @@
-"""
-The following code has been rewritten (copied) from Upload Component and more specifically DataTable example.
-(https://dash.plotly.com/dash-core-components/upload)
-The purpose of this project is plot graph from file provided by user.
-This initial example uploads xls or csv file and display data in form of a table.
-"""
-
 import base64
 import datetime
 import io
@@ -14,11 +7,17 @@ from dash.dependencies import Input, Output, State
 import dash_core_components as dcc
 import dash_html_components as html
 import dash_table
+import plotly.express as px
 
 import pandas as pd
+from helpers import LogFileToDf
 
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+# alternative layout
+import dash_bootstrap_components as dbc
+external_stylesheets = [dbc.themes.LUX]
+
+# external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
@@ -42,7 +41,9 @@ app.layout = html.Div([
         # Allow multiple files to be uploaded
         multiple=True
     ),
-    html.Div(id='output-data-upload')
+    html.Br(),
+    html.Div(id='output-data-upload'),
+    html.Br(),
 ])
 
 
@@ -51,30 +52,35 @@ def parse_contents(contents, filename, date):
 
     decoded = base64.b64decode(content_string)
 
-    df=pd.DataFrame()
-    try:
-        if 'csv' in filename:
-            # Assume the user uploaded a CSV file
-            df = pd.read_csv(io.StringIO(decoded.decode('utf-8')))
-        elif 'xls' in filename:
-            # Assume the user uploaded an excel file
-            df = pd.read_excel(io.BytesIO(decoded))
-    except Exception as e:
-        print(e)
+    if 'log' in filename:
+        log_file_object = LogFileToDf(io.StringIO(decoded.decode('utf-8')))
+        summary_df = log_file_object.file_summary.reset_index()
+        df = log_file_object.record_df
+        if not log_file_object.press_data_empty:
+            fig = px.line(df, x='[Position]', y='[Force]',
+                          range_x=[int(min(df['[Position]'])), int(max(df['[Position]']) + 1)],
+                          height=600,
+                          line_group=df['[Record #]'],
+                          color=df['[Record #]'])
+        else:
+            fig = {'layout': {'height': '600'}}
+    else:
         return html.Div([
-            'There was an error processing this file.'
+            'File with ".log" extension required.'
         ])
 
     return html.Div([
         html.H5(filename),
-        html.H6(datetime.datetime.fromtimestamp(date)),
+        html.H6(('File last modification date: ',
+                 datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S'))),
 
         dash_table.DataTable(
-            data=df.to_dict('records'),
-            columns=[{'name': i, 'id': i} for i in df.columns]
+            data=summary_df.to_dict('records'),
+            columns=[{'name': i, 'id': i} for i in summary_df.columns[1:]]
         ),
+        dcc.Graph(figure=fig),
 
-        html.Hr(),  # horizontal line
+        html.Hr(),
 
         # For debugging, display the raw content provided by the web browser
         html.Div('Raw content'),

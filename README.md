@@ -1,13 +1,22 @@
-# ServoPressKit
-Web browser app to read [Festo Servo Press Kit](https://www.festo.com/cms/en-gb_gb/59135.htm) log data (csv file 
-recorded with .log extension). The file consists number of features, with the most important the Force/Displacement plot 
-to review a press scenarios. 
+# ServoPressKit App
 
-Also displays the log file summary with program name, timestamp, result, etc and the source file 
-‘last modification date’ which could indicate the original file was modified.
-A single log file is a csv style, all in one log. Contains all the information related to a press procedure such as the 
+## What is Servo Press Kit
+
+[Servo Press Kit](https://www.festo.com/cms/en-gb_gb/59135.htm) by Festo is a modular press-fitting kit with servo drive 
+for electrical press-fitting and joining up to 17 kN.
+
+## App
+
+Web browser app to read the [Servo Press Kit](https://www.festo.com/cms/en-gb_gb/59135.htm) log data. 
+
+Once an individual file is loaded, it plots the Force-Displacement graph from recorded points to analyse press 
+scenarios.
+Also displays the log file summary with program name, timestamp, result, etc and the source file ‘last modification 
+date’ which could indicate the original file was modified.
+
+A single log file is a csv format. Contains all the information related to a press procedure such as the 
 press sequence, pass/fail criteria as well as placeholders for unused parameters. App needs to locate and extract all 
-the relevant data inside the dataset in order to proceed. 
+the relevant data inside the file in order to proceed. 
 
 <kbd>![](img/sample.gif)</kbd>
 

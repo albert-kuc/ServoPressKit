@@ -19,7 +19,7 @@ Additionally, displays the log file summary including program name, timestamp, r
 
 <kbd>![](img/sample.gif)</kbd>
 
-<p style="text-align: center">
+<p align = "center">
 Fig.1 - Web panel overview
 </p>
 
@@ -31,6 +31,8 @@ the relevant data inside the file in order to proceed.
 
 ### Setup
 
+This app was created using Python 3.10 and should run using any equivalent version.
+
 To install the app from GitHub navigate to a destination directory and execute the following from the command prompt:
 
 ```
@@ -41,7 +43,7 @@ git clone git@github.com:pony999/ServoPressKit.git
 cd ServoPressKit
 
 # Create an environment for the project and activate it
-create venv ./venv
+python -m venv ./venv
 venv\Scripts\activate.bat
 
 # Install dependencies
@@ -50,3 +52,7 @@ pip install -r requirements.txt
 # Launch app
 python servo_press_kit/app.py
 ```
+
+The web panel will be accessible locally using path: `http://127.0.0.1:8050/`
+
+Sample files are included in the `/sample` directory

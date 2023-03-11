@@ -1,0 +1,1730 @@
+[Part no.];[Program name];[Part ID];[Timestamp];[Result];[Max. position];[Max. force];[NOK source]
+5;GB_D3_v1_05;555;2020-04-15-16:31:53;FALSE;44.72;4092.286;6
+[MAC Address];[Serial number]
+00:0E:F0:54:08:A6;
+[Curves]
+No:;4
+[Curve 1]
+[Max. position];[Max. force];[Min. position];[Min. force];[Start position];[Curve Time];[NOK source]
+36.56;16.64419;35.99;6.235306;35.99;T#0ms;0
+[Window 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Threshold 1]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 2]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 3]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 4]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 5]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Envelope 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Curve 2]
+[Max. position];[Max. force];[Min. position];[Min. force];[Start position];[Curve Time];[NOK source]
+37.39;236.911;36.5;7.605328;36.5;T#0ms;0
+[Window 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Threshold 1]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 2]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 3]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 4]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 5]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Envelope 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Curve 3]
+[Max. position];[Max. force];[Min. position];[Min. force];[Start position];[Curve Time];[NOK source]
+43.0;3259.312;37.39;220.7788;37.39;T#0ms;0
+[Window 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Threshold 1]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 2]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 3]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 4]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 5]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Envelope 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Curve 4]
+[Max. position];[Max. force];[Min. position];[Min. force];[Start position];[Curve Time];[NOK source]
+44.71;3940.304;43.0;3102.866;43.0;T#0ms;513
+[Window 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Threshold 1]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 2]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 3]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 4]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 5]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Envelope 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Curve 5]
+[Max. position];[Max. force];[Min. position];[Min. force];[Start position];[Curve Time];[NOK source]
+0.0;0.0;0.0;0.0;0.0;T#0ms;0
+[Window 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Window 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force];[Left side position];[Left side force];[Right side position];[Right side force];[Min. position];[Max. position];[Min. force];[Max. force]
+0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+[Threshold 1]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 2]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 3]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 4]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Threshold 5]
+[Intersection];[Position];[Force]
+0;0.0;0.0
+[Envelope 1]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 2]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 3]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 4]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Envelope 5]
+[Intersection];[Up side position];[Up side force];[Down side position];[Down side force]
+0;0.0;0.0;0.0;0.0
+[Variables];[No.];[Value]
+1;0.0
+2;0.0
+3;0.0
+4;0.0
+5;0.0
+6;0.0
+7;0.0
+8;0.0
+9;0.0
+10;0.0
+11;0.0
+12;0.0
+13;0.0
+14;0.0
+15;0.0
+16;0.0
+17;0.0
+18;0.0
+19;0.0
+20;0.0
+21;0.0
+22;0.0
+23;0.0
+24;0.0
+25;0.0
+26;0.0
+27;0.0
+28;0.0
+29;0.0
+30;0.0
+31;0.0
+32;0.0
+33;0.0
+34;0.0
+35;0.0
+36;0.0
+37;0.0
+38;0.0
+39;0.0
+40;0.0
+41;0.0
+42;0.0
+43;0.0
+44;0.0
+45;0.0
+46;0.0
+47;0.0
+48;0.0
+49;0.0
+50;0.0
+51;0.0
+52;0.0
+53;0.0
+54;0.0
+55;0.0
+56;0.0
+57;0.0
+58;0.0
+59;0.0
+60;0.0
+61;0.0
+62;0.0
+63;0.0
+64;0.0
+65;0.0
+66;0.0
+67;0.0
+68;0.0
+69;0.0
+70;0.0
+71;0.0
+72;0.0
+73;0.0
+74;0.0
+75;0.0
+76;0.0
+77;0.0
+78;0.0
+79;0.0
+80;0.0
+81;0.0
+82;0.0
+83;0.0
+84;0.0
+85;0.0
+86;0.0
+87;0.0
+88;0.0
+89;0.0
+90;0.0
+91;0.0
+92;0.0
+93;0.0
+94;0.0
+95;0.0
+96;0.0
+97;0.0
+98;0.0
+99;0.0
+100;0.0
+[Sequencer]
+Steps:;9
+[Activate error reaction];TRUE;[Safe target position];0.0;[Safe velocity];20.0
+[No.];[Function];[Step name];[Input 1];[Input 2];[Input 3];[Input 4];[Input 5];[Input 6];[Input 7];[Input 8];[Input 9];[Input 10];[Input 11];[Input 12];[Input 13];[Input 14];[Input 15];[Input 16];[Input 17];[Input 18];[Input 19];[Input 20];[Input 21];[Input 22];[Input 23];[Input 24];[Input 25];[Input 26];[Input 27];[Input 28];[Input 29];[Input 30];[Input 31]
+1;5;TARE;TRUE;FALSE;0.0;1
+2;1;POSITION_MODE;FALSE;FALSE;FALSE;36.0;1;FALSE;0.0;1;FALSE;250.0;1;FALSE;30.0;1
+3;1;POSITION_MODE;TRUE;FALSE;FALSE;36.5;1;FALSE;0.0;1;FALSE;250.0;1;FALSE;20.0;1
+4;2;FORCE_MODE;TRUE;FALSE;FALSE;100.0;1;FALSE;47.0;1;FALSE;0.0;1;FALSE;5.0;1
+5;1;POSITION_MODE;TRUE;FALSE;FALSE;43.0;1;FALSE;0.0;1;FALSE;3500.0;1;FALSE;2.0;1
+6;4;DELAY_TIME;FALSE;200;1
+7;2;FORCE_MODE;TRUE;FALSE;FALSE;4000.0;1;FALSE;46.5;1;FALSE;0.0;1;FALSE;0.25;1
+8;4;DELAY_TIME;FALSE;200;1
+9;1;HOME;FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;5000.0;1;FALSE;20.0;1
+[Recipes]
+No:;4
+[Windowing]
+Active:;FALSE
+[Window 1]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 2]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 3]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 4]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 5]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Threshold]
+Active:;FALSE
+[Threshold 1]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 2]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 3]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 4]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 5]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Envelope]
+Active:;FALSE
+[Envelope 1]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 2]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 3]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 4]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 5]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Windowing]
+Active:;FALSE
+[Window 1]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;44.85;1;FALSE;45.2;1;FALSE;0.0;1;FALSE;4000.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;2;0
+[Window 2]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 3]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 4]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 5]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Threshold]
+Active:;FALSE
+[Threshold 1]
+Active:;TRUE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;44.83;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;4000.0;1;3
+[Threshold 2]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 3]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 4]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 5]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Envelope]
+Active:;FALSE
+[Envelope 1]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 2]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 3]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 4]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 5]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Windowing]
+Active:;FALSE
+[Window 1]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;44.85;1;FALSE;45.2;1;FALSE;0.0;1;FALSE;4000.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;2;0
+[Window 2]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 3]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 4]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 5]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Threshold]
+Active:;FALSE
+[Threshold 1]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 2]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 3]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 4]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 5]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Envelope]
+Active:;FALSE
+[Envelope 1]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 2]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 3]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 4]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 5]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Windowing]
+Active:;FALSE
+[Window 1]
+Active:;TRUE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;44.75;1;FALSE;45.2;1;FALSE;0.0;1;FALSE;4000.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;2;0
+[Window 2]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 3]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 4]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Window 5]
+Active:;FALSE
+[Config.];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. min.force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable]
+FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1
+[Config. down side];[Config. up side];[Config. left side];[Config. right side]
+0;0;0;0
+[Threshold]
+Active:;TRUE
+[Threshold 1]
+Active:;TRUE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;44.8;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;4000.0;1;3
+[Threshold 2]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;3
+[Threshold 3]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 4]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Threshold 5]
+Active:;FALSE
+[Config.];[Mode];[Config. position];[Position value];[Position variable];[Config. min. position];[Min. position value];[Min. position variable];[Config. max. position];[Max. position value];[Max. position variable];[Config. force];[Force value];[Force variable];[Config. min. force];[Min. force value];[Min. force variable];[Config. max. force];[Max. force value];[Max. force variable];[Config]
+FALSE;FALSE;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;FALSE;0.0;1;1
+[Envelope]
+Active:;FALSE
+[Envelope 1]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 2]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 3]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 4]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Envelope 5]
+Active:;FALSE
+[Config.];FALSE
+Points up side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+Points down side:;2
+1;FALSE;0.0;1;FALSE;0.0;1
+2;FALSE;0.0;1;FALSE;0.0;1
+3;FALSE;0.0;1;FALSE;0.0;1
+4;FALSE;0.0;1;FALSE;0.0;1
+5;FALSE;0.0;1;FALSE;0.0;1
+[Timestamp]
+2020-04-15-16:31:53
+[Recorded curves]
+No:;4
+[Record 1]
+No. points:;21
+[Point];[Position];[Force];[Time]
+1;35.99;8.14016;T#0ms
+2;36.0;9.352863;T#0ms
+3;36.02;9.944041;T#0ms
+4;36.04;10.186571;T#0ms
+5;36.08;12.763573;T#0ms
+6;36.15;14.643263;T#0ms
+7;36.19;16.64419;T#0ms
+8;36.27;13.339551;T#0ms
+9;36.31;14.431007;T#0ms
+10;36.35;14.431007;T#0ms
+11;36.41;13.703418;T#0ms
+12;36.48;13.703418;T#0ms
+13;36.5;13.036425;T#0ms
+14;36.56;11.596361;T#0ms
+15;36.55;9.458982;T#0ms
+16;36.54;9.913768;T#0ms
+17;36.53;8.610106;T#0ms
+18;36.51;9.049706;T#0ms
+19;36.5;8.98911;T#0ms
+20;36.49;6.235306;T#0ms
+21;36.5;9.271644;T#0ms
+[Record 2]
+No. points:;73
+[Point];[Position];[Force];[Time]
+1;36.5;7.605328;T#0ms
+2;36.51;7.91284;T#0ms
+3;36.52;8.246336;T#0ms
+4;36.53;9.201365;T#0ms
+5;36.55;10.186668;T#0ms
+6;36.56;10.247313;T#0ms
+7;36.58;10.398924;T#0ms
+8;36.59;10.853661;T#0ms
+9;36.61;11.217479;T#0ms
+10;36.62;11.187157;T#0ms
+11;36.63;10.914305;T#0ms
+12;36.64;10.914305;T#0ms
+13;36.65;11.308446;T#0ms
+14;36.66;11.732908;T#0ms
+15;36.68;12.157372;T#0ms
+16;36.69;12.460546;T#0ms
+17;36.7;13.309471;T#0ms
+18;36.72;13.870313;T#0ms
+19;36.73;14.431201;T#0ms
+20;36.75;15.098169;T#0ms
+21;36.76;14.91626;T#0ms
+22;36.78;14.552442;T#0ms
+23;36.79;14.15835;T#0ms
+24;36.8;14.143188;T#0ms
+25;36.82;13.824852;T#0ms
+26;36.83;13.946093;T#0ms
+27;36.84;14.037012;T#0ms
+28;36.85;14.370508;T#0ms
+29;36.86;14.643359;T#0ms
+30;36.87;14.643359;T#0ms
+31;36.88;14.370508;T#0ms
+32;36.9;14.20376;T#0ms
+33;36.91;13.733836;T#0ms
+34;36.93;13.476146;T#0ms
+35;36.94;13.370018;T#0ms
+36;36.96;12.960741;T#0ms
+37;36.98;12.672751;T#0ms
+38;36.99;12.793992;T#0ms
+39;37.0;12.945555;T#0ms
+40;37.01;13.248729;T#0ms
+41;37.02;13.551903;T#0ms
+42;37.03;14.158252;T#0ms
+43;37.05;15.795436;T#0ms
+44;37.06;18.52403;T#0ms
+45;37.08;20.67656;T#0ms
+46;37.09;22.92007;T#0ms
+47;37.1;25.43638;T#0ms
+48;37.11;27.86182;T#0ms
+49;37.12;30.43877;T#0ms
+50;37.13;32.80352;T#0ms
+51;37.14;35.16827;T#0ms
+52;37.15;37.53306;T#0ms
+53;37.17;40.0191;T#0ms
+54;37.18;42.50514;T#0ms
+55;37.19;44.59703;T#0ms
+56;37.2;47.35592;T#0ms
+57;37.21;50.1148;T#0ms
+58;37.23;54.814;T#0ms
+59;37.24;60.33178;T#0ms
+60;37.26;65.56157;T#0ms
+61;37.28;70.42753;T#0ms
+62;37.29;73.94432;T#0ms
+63;37.3;77.52176;T#0ms
+64;37.31;81.03856;T#0ms
+65;37.32;84.52509;T#0ms
+66;37.33;89.01205;T#0ms
+67;37.34;96.62177;T#0ms
+68;37.36;106.05052;T#0ms
+69;37.37;113.69051;T#0ms
+70;37.38;123.54368;T#0ms
+71;37.39;175.4094;T#0ms
+72;37.38;236.911;T#0ms
+73;37.39;218.8804;T#0ms
+[Record 3]
+No. points:;562
+[Point];[Position];[Force];[Time]
+1;37.39;220.7788;T#0ms
+2;37.4;226.1686;T#0ms
+3;37.41;235.6732;T#0ms
+4;37.42;248.4823;T#0ms
+5;37.43;264.7022;T#0ms
+6;37.44;278.7998;T#0ms
+7;37.45;301.3862;T#0ms
+8;37.46;340.4654;T#0ms
+9;37.47;370.5707;T#0ms
+10;37.48;396.9621;T#0ms
+11;37.49;444.5152;T#0ms
+12;37.5;493.2656;T#0ms
+13;37.51;544.573;T#0ms
+14;37.52;601.8478;T#0ms
+15;37.53;663.5793;T#0ms
+16;37.54;728.7417;T#0ms
+17;37.55;784.0712;T#0ms
+18;37.56;857.5607;T#0ms
+19;37.57;947.2903;T#0ms
+20;37.58;1022.321;T#0ms
+21;37.59;1083.426;T#0ms
+22;37.6;1143.94;T#0ms
+23;37.61;1203.15;T#0ms
+24;37.62;1278.276;T#0ms
+25;37.63;1338.548;T#0ms
+26;37.64;1369.35;T#0ms
+27;37.65;1428.136;T#0ms
+28;37.66;1508.336;T#0ms
+29;37.67;1555.469;T#0ms
+30;37.68;1585.923;T#0ms
+31;37.69;1621.001;T#0ms
+32;37.7;1646.18;T#0ms
+33;37.71;1649.242;T#0ms
+34;37.72;1638.933;T#0ms
+35;37.73;1624.275;T#0ms
+36;37.74;1598.369;T#0ms
+37;37.75;1556.732;T#0ms
+38;37.76;1513.404;T#0ms
+39;37.77;1471.106;T#0ms
+40;37.78;1429.894;T#0ms
+41;37.79;1397.56;T#0ms
+42;37.8;1373.837;T#0ms
+43;37.81;1370.942;T#0ms
+44;37.82;1372.25;T#0ms
+45;37.83;1374.959;T#0ms
+46;37.84;1376.323;T#0ms
+47;37.85;1377.273;T#0ms
+48;37.86;1379.325;T#0ms
+49;37.87;1381.437;T#0ms
+50;37.88;1384.448;T#0ms
+51;37.89;1386.904;T#0ms
+52;37.9;1389.208;T#0ms
+53;37.91;1392.452;T#0ms
+54;37.92;1395.575;T#0ms
+55;37.93;1397.849;T#0ms
+56;37.94;1401.78;T#0ms
+57;37.95;1407.308;T#0ms
+58;37.96;1409.915;T#0ms
+59;37.97;1414.23;T#0ms
+60;37.98;1420.223;T#0ms
+61;37.99;1425.498;T#0ms
+62;38.0;1429.924;T#0ms
+63;38.01;1435.483;T#0ms
+64;38.02;1440.217;T#0ms
+65;38.03;1444.699;T#0ms
+66;38.04;1447.994;T#0ms
+67;38.05;1450.859;T#0ms
+68;38.06;1455.583;T#0ms
+69;38.07;1460.181;T#0ms
+70;38.08;1463.35;T#0ms
+71;38.09;1467.655;T#0ms
+72;38.1;1471.444;T#0ms
+73;38.11;1474.673;T#0ms
+74;38.12;1477.447;T#0ms
+75;38.13;1482.586;T#0ms
+76;38.14;1486.527;T#0ms
+77;38.15;1490.388;T#0ms
+78;38.16;1494.516;T#0ms
+79;38.17;1499.306;T#0ms
+80;38.18;1504.202;T#0ms
+81;38.19;1507.643;T#0ms
+82;38.2;1511.66;T#0ms
+83;38.21;1515.986;T#0ms
+84;38.22;1520.377;T#0ms
+85;38.23;1524.0;T#0ms
+86;38.24;1528.047;T#0ms
+87;38.25;1531.534;T#0ms
+88;38.26;1534.55;T#0ms
+89;38.27;1537.537;T#0ms
+90;38.28;1541.463;T#0ms
+91;38.29;1545.677;T#0ms
+92;38.3;1549.315;T#0ms
+93;38.31;1553.954;T#0ms
+94;38.32;1558.925;T#0ms
+95;38.33;1564.019;T#0ms
+96;38.34;1568.642;T#0ms
+97;38.35;1573.094;T#0ms
+98;38.36;1576.722;T#0ms
+99;38.37;1579.844;T#0ms
+100;38.38;1583.634;T#0ms
+101;38.39;1587.363;T#0ms
+102;38.4;1591.648;T#0ms
+103;38.41;1595.852;T#0ms
+104;38.42;1599.369;T#0ms
+105;38.43;1603.987;T#0ms
+106;38.44;1606.888;T#0ms
+107;38.45;1610.627;T#0ms
+108;38.46;1615.847;T#0ms
+109;38.47;1620.066;T#0ms
+110;38.48;1623.32;T#0ms
+111;38.49;1626.064;T#0ms
+112;38.5;1628.534;T#0ms
+113;38.51;1631.87;T#0ms
+114;38.52;1635.932;T#0ms
+115;38.53;1640.419;T#0ms
+116;38.54;1645.027;T#0ms
+117;38.55;1648.165;T#0ms
+118;38.56;1651.697;T#0ms
+119;38.57;1655.866;T#0ms
+120;38.58;1660.641;T#0ms
+121;38.59;1665.218;T#0ms
+122;38.6;1669.645;T#0ms
+123;38.61;1673.364;T#0ms
+124;38.62;1677.194;T#0ms
+125;38.63;1680.923;T#0ms
+126;38.64;1685.183;T#0ms
+127;38.65;1689.73;T#0ms
+128;38.66;1693.505;T#0ms
+129;38.67;1698.648;T#0ms
+130;38.68;1701.539;T#0ms
+131;38.69;1703.934;T#0ms
+132;38.7;1709.128;T#0ms
+133;38.71;1711.392;T#0ms
+134;38.72;1715.151;T#0ms
+135;38.73;1718.456;T#0ms
+136;38.74;1720.093;T#0ms
+137;38.75;1723.792;T#0ms
+138;38.76;1727.4;T#0ms
+139;38.77;1730.826;T#0ms
+140;38.78;1734.787;T#0ms
+141;38.79;1739.936;T#0ms
+142;38.8;1742.968;T#0ms
+143;38.81;1745.666;T#0ms
+144;38.82;1749.774;T#0ms
+145;38.83;1754.306;T#0ms
+146;38.84;1758.657;T#0ms
+147;38.85;1761.795;T#0ms
+148;38.86;1765.039;T#0ms
+149;38.87;1767.682;T#0ms
+150;38.88;1771.072;T#0ms
+151;38.89;1773.876;T#0ms
+152;38.9;1777.363;T#0ms
+153;38.91;1781.987;T#0ms
+154;38.92;1783.608;T#0ms
+155;38.93;1786.69;T#0ms
+156;38.94;1792.794;T#0ms
+157;38.95;1797.297;T#0ms
+158;38.96;1800.677;T#0ms
+159;38.97;1804.81;T#0ms
+160;38.98;1809.515;T#0ms
+161;38.99;1812.183;T#0ms
+162;39.0;1815.715;T#0ms
+163;39.01;1819.186;T#0ms
+164;39.02;1823.718;T#0ms
+165;39.03;1826.856;T#0ms
+166;39.04;1829.6;T#0ms
+167;39.05;1834.39;T#0ms
+168;39.06;1839.044;T#0ms
+169;39.07;1843.228;T#0ms
+170;39.08;1846.305;T#0ms
+171;39.09;1852.581;T#0ms
+172;39.1;1858.857;T#0ms
+173;39.11;1863.359;T#0ms
+174;39.12;1870.206;T#0ms
+175;39.13;1877.274;T#0ms
+176;39.14;1882.757;T#0ms
+177;39.15;1888.446;T#0ms
+178;39.16;1892.661;T#0ms
+179;39.17;1896.804;T#0ms
+180;39.18;1901.655;T#0ms
+181;39.19;1906.713;T#0ms
+182;39.2;1909.047;T#0ms
+183;39.21;1912.109;T#0ms
+184;39.22;1913.913;T#0ms
+185;39.23;1918.451;T#0ms
+186;39.24;1923.024;T#0ms
+187;39.25;1925.04;T#0ms
+188;39.26;1928.304;T#0ms
+189;39.27;1934.316;T#0ms
+190;39.28;1937.47;T#0ms
+191;39.29;1941.532;T#0ms
+192;39.3;1945.656;T#0ms
+193;39.31;1949.415;T#0ms
+194;39.32;1952.446;T#0ms
+195;39.33;1955.306;T#0ms
+196;39.34;1958.934;T#0ms
+197;39.35;1961.481;T#0ms
+198;39.36;1963.088;T#0ms
+199;39.37;1965.134;T#0ms
+200;39.38;1969.646;T#0ms
+201;39.39;1973.82;T#0ms
+202;39.4;1976.428;T#0ms
+203;39.41;1979.338;T#0ms
+204;39.42;1983.689;T#0ms
+205;39.43;1987.251;T#0ms
+206;39.44;1990.525;T#0ms
+207;39.45;1994.992;T#0ms
+208;39.46;1998.923;T#0ms
+209;39.47;2003.137;T#0ms
+210;39.48;2006.927;T#0ms
+211;39.49;2010.565;T#0ms
+212;39.5;2015.659;T#0ms
+213;39.51;2022.207;T#0ms
+214;39.52;2025.603;T#0ms
+215;39.53;2029.574;T#0ms
+216;39.54;2036.719;T#0ms
+217;39.55;2042.186;T#0ms
+218;39.56;2045.855;T#0ms
+219;39.57;2050.301;T#0ms
+220;39.58;2054.616;T#0ms
+221;39.59;2058.78;T#0ms
+222;39.6;2062.15;T#0ms
+223;39.61;2065.44;T#0ms
+224;39.62;2068.184;T#0ms
+225;39.63;2072.362;T#0ms
+226;39.64;2076.657;T#0ms
+227;39.65;2080.629;T#0ms
+228;39.66;2086.177;T#0ms
+229;39.67;2089.77;T#0ms
+230;39.68;2093.968;T#0ms
+231;39.69;2101.103;T#0ms
+232;39.7;2107.536;T#0ms
+233;39.71;2112.877;T#0ms
+234;39.72;2118.086;T#0ms
+235;39.73;2122.679;T#0ms
+236;39.74;2125.938;T#0ms
+237;39.75;2130.491;T#0ms
+238;39.76;2133.654;T#0ms
+239;39.77;2138.03;T#0ms
+240;39.78;2142.173;T#0ms
+241;39.79;2146.297;T#0ms
+242;39.8;2148.783;T#0ms
+243;39.81;2153.108;T#0ms
+244;39.82;2156.165;T#0ms
+245;39.83;2160.434;T#0ms
+246;39.84;2164.426;T#0ms
+247;39.85;2168.822;T#0ms
+248;39.86;2171.723;T#0ms
+249;39.87;2175.356;T#0ms
+250;39.88;2179.222;T#0ms
+251;39.89;2183.876;T#0ms
+252;39.9;2187.028;T#0ms
+253;39.91;2189.56;T#0ms
+254;39.92;2192.501;T#0ms
+255;39.93;2195.967;T#0ms
+256;39.94;2198.655;T#0ms
+257;39.95;2201.05;T#0ms
+258;39.96;2205.871;T#0ms
+259;39.97;2209.191;T#0ms
+260;39.98;2214.652;T#0ms
+261;39.99;2219.028;T#0ms
+262;40.0;2224.334;T#0ms
+263;40.01;2228.048;T#0ms
+264;40.02;2233.096;T#0ms
+265;40.03;2238.917;T#0ms
+266;40.04;2245.041;T#0ms
+267;40.05;2248.3;T#0ms
+268;40.06;2251.574;T#0ms
+269;40.07;2254.985;T#0ms
+270;40.08;2259.442;T#0ms
+271;40.09;2263.519;T#0ms
+272;40.1;2269.699;T#0ms
+273;40.11;2274.489;T#0ms
+274;40.12;2280.33;T#0ms
+275;40.13;2283.104;T#0ms
+276;40.14;2287.99;T#0ms
+277;40.15;2293.973;T#0ms
+278;40.16;2296.611;T#0ms
+279;40.17;2299.724;T#0ms
+280;40.18;2303.266;T#0ms
+281;40.19;2307.601;T#0ms
+282;40.2;2311.628;T#0ms
+283;40.21;2315.15;T#0ms
+284;40.22;2320.198;T#0ms
+285;40.23;2324.705;T#0ms
+286;40.24;2330.02;T#0ms
+287;40.25;2334.548;T#0ms
+288;40.26;2338.51;T#0ms
+289;40.27;2340.798;T#0ms
+290;40.28;2344.209;T#0ms
+291;40.29;2349.161;T#0ms
+292;40.3;2353.062;T#0ms
+293;40.31;2357.508;T#0ms
+294;40.32;2360.838;T#0ms
+295;40.33;2365.507;T#0ms
+296;40.34;2368.964;T#0ms
+297;40.35;2374.628;T#0ms
+298;40.36;2378.347;T#0ms
+299;40.37;2383.056;T#0ms
+300;40.38;2388.918;T#0ms
+301;40.39;2393.142;T#0ms
+302;40.4;2395.992;T#0ms
+303;40.41;2401.388;T#0ms
+304;40.42;2404.071;T#0ms
+305;40.43;2408.684;T#0ms
+306;40.44;2412.272;T#0ms
+307;40.45;2414.591;T#0ms
+308;40.46;2417.032;T#0ms
+309;40.47;2420.902;T#0ms
+310;40.48;2422.55;T#0ms
+311;40.49;2428.078;T#0ms
+312;40.5;2431.902;T#0ms
+313;40.51;2435.344;T#0ms
+314;40.52;2437.83;T#0ms
+315;40.53;2441.751;T#0ms
+316;40.54;2447.41;T#0ms
+317;40.55;2451.503;T#0ms
+318;40.56;2453.413;T#0ms
+319;40.57;2458.294;T#0ms
+320;40.58;2461.286;T#0ms
+321;40.59;2464.63;T#0ms
+322;40.6;2467.177;T#0ms
+323;40.61;2470.558;T#0ms
+324;40.62;2474.625;T#0ms
+325;40.63;2478.85;T#0ms
+326;40.64;2481.184;T#0ms
+327;40.65;2484.024;T#0ms
+328;40.66;2486.49;T#0ms
+329;40.67;2488.895;T#0ms
+330;40.68;2492.901;T#0ms
+331;40.69;2496.524;T#0ms
+332;40.7;2499.147;T#0ms
+333;40.71;2503.094;T#0ms
+334;40.72;2505.953;T#0ms
+335;40.73;2509.036;T#0ms
+336;40.74;2516.059;T#0ms
+337;40.75;2520.096;T#0ms
+338;40.76;2522.81;T#0ms
+339;40.77;2526.448;T#0ms
+340;40.78;2529.267;T#0ms
+341;40.79;2533.431;T#0ms
+342;40.8;2537.271;T#0ms
+343;40.81;2541.652;T#0ms
+344;40.82;2544.547;T#0ms
+345;40.83;2546.74;T#0ms
+346;40.84;2550.368;T#0ms
+347;40.85;2553.41;T#0ms
+348;40.86;2557.614;T#0ms
+349;40.87;2562.556;T#0ms
+350;40.88;2567.18;T#0ms
+351;40.89;2570.848;T#0ms
+352;40.9;2574.531;T#0ms
+353;40.91;2578.584;T#0ms
+354;40.92;2584.233;T#0ms
+355;40.93;2586.325;T#0ms
+356;40.94;2591.469;T#0ms
+357;40.95;2597.916;T#0ms
+358;40.96;2600.968;T#0ms
+359;40.97;2604.212;T#0ms
+360;40.98;2608.199;T#0ms
+361;40.99;2611.458;T#0ms
+362;41.0;2615.763;T#0ms
+363;41.01;2616.501;T#0ms
+364;41.02;2622.145;T#0ms
+365;41.03;2625.071;T#0ms
+366;41.04;2626.738;T#0ms
+367;41.05;2629.846;T#0ms
+368;41.06;2632.498;T#0ms
+369;41.07;2637.005;T#0ms
+370;41.08;2639.956;T#0ms
+371;41.09;2643.605;T#0ms
+372;41.1;2649.385;T#0ms
+373;41.11;2654.478;T#0ms
+374;41.12;2658.435;T#0ms
+375;41.13;2662.74;T#0ms
+376;41.14;2667.03;T#0ms
+377;41.15;2671.224;T#0ms
+378;41.16;2676.413;T#0ms
+379;41.17;2679.005;T#0ms
+380;41.18;2681.956;T#0ms
+381;41.19;2688.01;T#0ms
+382;41.2;2690.193;T#0ms
+383;41.21;2691.799;T#0ms
+384;41.22;2696.468;T#0ms
+385;41.23;2700.349;T#0ms
+386;41.24;2704.442;T#0ms
+387;41.25;2709.303;T#0ms
+388;41.26;2714.174;T#0ms
+389;41.27;2719.409;T#0ms
+390;41.28;2722.784;T#0ms
+391;41.29;2725.33;T#0ms
+392;41.3;2729.575;T#0ms
+393;41.31;2733.759;T#0ms
+394;41.32;2737.003;T#0ms
+395;41.33;2739.63;T#0ms
+396;41.34;2745.098;T#0ms
+397;41.35;2748.948;T#0ms
+398;41.36;2751.055;T#0ms
+399;41.37;2754.728;T#0ms
+400;41.38;2759.619;T#0ms
+401;41.39;2763.318;T#0ms
+402;41.4;2765.592;T#0ms
+403;41.41;2768.684;T#0ms
+404;41.42;2773.55;T#0ms
+405;41.43;2775.93;T#0ms
+406;41.44;2778.356;T#0ms
+407;41.45;2781.205;T#0ms
+408;41.46;2786.177;T#0ms
+409;41.47;2789.078;T#0ms
+410;41.48;2791.938;T#0ms
+411;41.49;2795.454;T#0ms
+412;41.5;2800.245;T#0ms
+413;41.51;2804.782;T#0ms
+414;41.52;2808.855;T#0ms
+415;41.53;2811.993;T#0ms
+416;41.54;2815.57;T#0ms
+417;41.55;2818.951;T#0ms
+418;41.56;2824.348;T#0ms
+419;41.57;2826.182;T#0ms
+420;41.58;2830.613;T#0ms
+421;41.59;2832.17;T#0ms
+422;41.6;2833.837;T#0ms
+423;41.61;2836.383;T#0ms
+424;41.62;2841.406;T#0ms
+425;41.63;2847.51;T#0ms
+426;41.64;2850.678;T#0ms
+427;41.65;2853.664;T#0ms
+428;41.66;2858.01;T#0ms
+429;41.67;2861.577;T#0ms
+430;41.68;2866.049;T#0ms
+431;41.69;2870.37;T#0ms
+432;41.7;2873.371;T#0ms
+433;41.71;2876.645;T#0ms
+434;41.72;2880.147;T#0ms
+435;41.73;2882.698;T#0ms
+436;41.74;2887.196;T#0ms
+437;41.75;2889.954;T#0ms
+438;41.76;2893.532;T#0ms
+439;41.77;2895.442;T#0ms
+440;41.78;2898.959;T#0ms
+441;41.79;2902.308;T#0ms
+442;41.8;2905.189;T#0ms
+443;41.81;2907.417;T#0ms
+444;41.82;2911.752;T#0ms
+445;41.83;2914.557;T#0ms
+446;41.84;2917.27;T#0ms
+447;41.85;2921.424;T#0ms
+448;41.86;2925.168;T#0ms
+449;41.87;2927.942;T#0ms
+450;41.88;2929.792;T#0ms
+451;41.89;2933.208;T#0ms
+452;41.9;2936.234;T#0ms
+453;41.91;2938.291;T#0ms
+454;41.92;2941.737;T#0ms
+455;41.93;2945.446;T#0ms
+456;41.94;2949.483;T#0ms
+457;41.95;2952.12;T#0ms
+458;41.96;2954.136;T#0ms
+459;41.97;2958.027;T#0ms
+460;41.98;2960.2;T#0ms
+461;41.99;2964.232;T#0ms
+462;42.0;2967.325;T#0ms
+463;42.01;2969.932;T#0ms
+464;42.02;2973.247;T#0ms
+465;42.03;2976.254;T#0ms
+466;42.04;2979.422;T#0ms
+467;42.05;2983.322;T#0ms
+468;42.06;2987.016;T#0ms
+469;42.07;2990.199;T#0ms
+470;42.08;2993.307;T#0ms
+471;42.09;2995.944;T#0ms
+472;42.1;3000.492;T#0ms
+473;42.11;3003.797;T#0ms
+474;42.12;3006.828;T#0ms
+475;42.13;3009.618;T#0ms
+476;42.14;3013.367;T#0ms
+477;42.15;3017.955;T#0ms
+478;42.16;3021.32;T#0ms
+479;42.17;3024.281;T#0ms
+480;42.18;3029.536;T#0ms
+481;42.19;3031.4;T#0ms
+482;42.2;3033.508;T#0ms
+483;42.21;3035.68;T#0ms
+484;42.22;3038.101;T#0ms
+485;42.23;3041.916;T#0ms
+486;42.24;3045.696;T#0ms
+487;42.25;3048.197;T#0ms
+488;42.26;3050.394;T#0ms
+489;42.27;3052.871;T#0ms
+490;42.28;3055.336;T#0ms
+491;42.29;3058.389;T#0ms
+492;42.3;3064.745;T#0ms
+493;42.31;3069.434;T#0ms
+494;42.32;3071.147;T#0ms
+495;42.33;3073.668;T#0ms
+496;42.34;3076.013;T#0ms
+497;42.35;3078.307;T#0ms
+498;42.36;3081.182;T#0ms
+499;42.37;3082.864;T#0ms
+500;42.38;3084.401;T#0ms
+501;42.39;3085.002;T#0ms
+502;42.4;3086.427;T#0ms
+503;42.41;3088.974;T#0ms
+504;42.42;3091.869;T#0ms
+505;42.43;3091.99;T#0ms
+506;42.44;3094.522;T#0ms
+507;42.45;3096.649;T#0ms
+508;42.46;3100.904;T#0ms
+509;42.47;3103.278;T#0ms
+510;42.48;3106.058;T#0ms
+511;42.49;3107.998;T#0ms
+512;42.5;3111.166;T#0ms
+513;42.51;3112.409;T#0ms
+514;42.52;3114.607;T#0ms
+515;42.53;3120.095;T#0ms
+516;42.54;3124.278;T#0ms
+517;42.55;3125.461;T#0ms
+518;42.56;3126.916;T#0ms
+519;42.57;3129.968;T#0ms
+520;42.58;3132.358;T#0ms
+521;42.59;3136.426;T#0ms
+522;42.6;3138.861;T#0ms
+523;42.61;3142.666;T#0ms
+524;42.62;3144.176;T#0ms
+525;42.63;3145.864;T#0ms
+526;42.64;3148.729;T#0ms
+527;42.65;3150.882;T#0ms
+528;42.66;3153.716;T#0ms
+529;42.67;3156.263;T#0ms
+530;42.68;3156.976;T#0ms
+531;42.69;3161.548;T#0ms
+532;42.7;3163.358;T#0ms
+533;42.71;3165.843;T#0ms
+534;42.72;3169.33;T#0ms
+535;42.73;3172.832;T#0ms
+536;42.74;3174.802;T#0ms
+537;42.75;3179.072;T#0ms
+538;42.76;3183.033;T#0ms
+539;42.77;3187.227;T#0ms
+540;42.78;3191.432;T#0ms
+541;42.79;3196.07;T#0ms
+542;42.8;3197.116;T#0ms
+543;42.81;3201.093;T#0ms
+544;42.82;3204.938;T#0ms
+545;42.83;3209.208;T#0ms
+546;42.84;3211.866;T#0ms
+547;42.85;3214.715;T#0ms
+548;42.86;3217.232;T#0ms
+549;42.87;3220.9;T#0ms
+550;42.88;3223.037;T#0ms
+551;42.89;3227.721;T#0ms
+552;42.9;3229.995;T#0ms
+553;42.91;3231.36;T#0ms
+554;42.92;3233.406;T#0ms
+555;42.93;3237.362;T#0ms
+556;42.94;3240.743;T#0ms
+557;42.95;3244.669;T#0ms
+558;42.96;3245.73;T#0ms
+559;42.97;3248.246;T#0ms
+560;42.98;3252.481;T#0ms
+561;42.99;3257.054;T#0ms
+562;43.0;3259.312;T#0ms
+[Record 4]
+No. points:;172
+[Point];[Position];[Force];[Time]
+1;43.0;3102.866;T#0ms
+2;43.01;3172.554;T#0ms
+3;43.02;3305.265;T#0ms
+4;43.03;3301.106;T#0ms
+5;43.04;3282.183;T#0ms
+6;43.05;3301.334;T#0ms
+7;43.06;3283.893;T#0ms
+8;43.07;3301.02;T#0ms
+9;43.08;3300.487;T#0ms
+10;43.09;3295.0;T#0ms
+11;43.1;3294.816;T#0ms
+12;43.11;3297.586;T#0ms
+13;43.12;3291.05;T#0ms
+14;43.13;3302.852;T#0ms
+15;43.14;3301.731;T#0ms
+16;43.15;3304.172;T#0ms
+17;43.16;3312.526;T#0ms
+18;43.17;3308.673;T#0ms
+19;43.18;3302.124;T#0ms
+20;43.19;3302.63;T#0ms
+21;43.2;3307.97;T#0ms
+22;43.21;3305.442;T#0ms
+23;43.22;3316.1;T#0ms
+24;43.23;3314.433;T#0ms
+25;43.24;3313.5;T#0ms
+26;43.25;3318.024;T#0ms
+27;43.26;3320.552;T#0ms
+28;43.27;3324.202;T#0ms
+29;43.28;3319.151;T#0ms
+30;43.29;3326.046;T#0ms
+31;43.3;3337.158;T#0ms
+32;43.31;3332.74;T#0ms
+33;43.32;3332.71;T#0ms
+34;43.33;3337.938;T#0ms
+35;43.34;3345.309;T#0ms
+36;43.35;3341.995;T#0ms
+37;43.36;3347.483;T#0ms
+38;43.37;3345.578;T#0ms
+39;43.38;3345.738;T#0ms
+40;43.39;3351.244;T#0ms
+41;43.4;3358.62;T#0ms
+42;43.41;3358.151;T#0ms
+43;43.42;3353.432;T#0ms
+44;43.43;3366.107;T#0ms
+45;43.44;3369.311;T#0ms
+46;43.45;3364.061;T#0ms
+47;43.46;3374.354;T#0ms
+48;43.47;3369.374;T#0ms
+49;43.48;3369.581;T#0ms
+50;43.49;3380.441;T#0ms
+51;43.5;3377.048;T#0ms
+52;43.51;3379.709;T#0ms
+53;43.52;3389.213;T#0ms
+54;43.53;3381.966;T#0ms
+55;43.54;3375.992;T#0ms
+56;43.55;3391.446;T#0ms
+57;43.56;3387.994;T#0ms
+58;43.57;3394.931;T#0ms
+59;43.58;3403.415;T#0ms
+60;43.59;3392.922;T#0ms
+61;43.6;3394.448;T#0ms
+62;43.61;3401.5;T#0ms
+63;43.62;3404.927;T#0ms
+64;43.63;3411.623;T#0ms
+65;43.64;3418.561;T#0ms
+66;43.65;3415.058;T#0ms
+67;43.66;3421.908;T#0ms
+68;43.67;3417.579;T#0ms
+69;43.68;3420.378;T#0ms
+70;43.69;3431.275;T#0ms
+71;43.7;3423.354;T#0ms
+72;43.71;3435.359;T#0ms
+73;43.72;3437.187;T#0ms
+74;43.73;3441.569;T#0ms
+75;43.74;3435.574;T#0ms
+76;43.75;3444.882;T#0ms
+77;43.76;3442.594;T#0ms
+78;43.77;3443.233;T#0ms
+79;43.78;3448.16;T#0ms
+80;43.79;3451.192;T#0ms
+81;43.8;3463.615;T#0ms
+82;43.81;3460.037;T#0ms
+83;43.82;3459.941;T#0ms
+84;43.83;3461.828;T#0ms
+85;43.84;3463.846;T#0ms
+86;43.85;3461.356;T#0ms
+87;43.86;3464.671;T#0ms
+88;43.87;3470.89;T#0ms
+89;43.88;3477.766;T#0ms
+90;43.89;3480.74;T#0ms
+91;43.9;3475.45;T#0ms
+92;43.91;3478.046;T#0ms
+93;43.92;3483.466;T#0ms
+94;43.93;3482.549;T#0ms
+95;43.94;3483.91;T#0ms
+96;43.95;3496.927;T#0ms
+97;43.96;3484.568;T#0ms
+98;43.97;3490.547;T#0ms
+99;43.98;3496.23;T#0ms
+100;43.99;3500.961;T#0ms
+101;44.0;3503.276;T#0ms
+102;44.01;3504.591;T#0ms
+103;44.02;3510.183;T#0ms
+104;44.03;3513.651;T#0ms
+105;44.04;3513.533;T#0ms
+106;44.05;3519.982;T#0ms
+107;44.06;3523.918;T#0ms
+108;44.07;3524.516;T#0ms
+109;44.08;3521.732;T#0ms
+110;44.09;3527.236;T#0ms
+111;44.1;3536.183;T#0ms
+112;44.11;3545.835;T#0ms
+113;44.12;3539.78;T#0ms
+114;44.13;3531.597;T#0ms
+115;44.14;3537.819;T#0ms
+116;44.15;3540.489;T#0ms
+117;44.16;3538.171;T#0ms
+118;44.17;3549.836;T#0ms
+119;44.18;3558.077;T#0ms
+120;44.19;3559.713;T#0ms
+121;44.2;3554.017;T#0ms
+122;44.21;3558.447;T#0ms
+123;44.22;3561.423;T#0ms
+124;44.23;3561.742;T#0ms
+125;44.24;3564.76;T#0ms
+126;44.25;3571.819;T#0ms
+127;44.26;3571.8;T#0ms
+128;44.27;3575.807;T#0ms
+129;44.28;3574.619;T#0ms
+130;44.29;3575.302;T#0ms
+131;44.3;3577.707;T#0ms
+132;44.31;3580.464;T#0ms
+133;44.32;3578.423;T#0ms
+134;44.33;3588.844;T#0ms
+135;44.34;3585.915;T#0ms
+136;44.35;3586.859;T#0ms
+137;44.36;3590.233;T#0ms
+138;44.37;3594.624;T#0ms
+139;44.38;3603.437;T#0ms
+140;44.39;3607.27;T#0ms
+141;44.4;3603.817;T#0ms
+142;44.41;3611.243;T#0ms
+143;44.42;3615.678;T#0ms
+144;44.43;3602.006;T#0ms
+145;44.44;3607.63;T#0ms
+146;44.45;3616.126;T#0ms
+147;44.46;3621.359;T#0ms
+148;44.47;3617.823;T#0ms
+149;44.48;3626.218;T#0ms
+150;44.49;3618.578;T#0ms
+151;44.5;3621.097;T#0ms
+152;44.51;3627.547;T#0ms
+153;44.52;3628.66;T#0ms
+154;44.53;3630.075;T#0ms
+155;44.54;3635.651;T#0ms
+156;44.55;3635.429;T#0ms
+157;44.56;3640.531;T#0ms
+158;44.57;3642.682;T#0ms
+159;44.58;3647.038;T#0ms
+160;44.59;3643.33;T#0ms
+161;44.6;3655.441;T#0ms
+162;44.61;3650.978;T#0ms
+163;44.62;3656.568;T#0ms
+164;44.63;3658.145;T#0ms
+165;44.64;3662.451;T#0ms
+166;44.65;3668.618;T#0ms
+167;44.66;3666.133;T#0ms
+168;44.67;3666.505;T#0ms
+169;44.68;3681.839;T#0ms
+170;44.69;3714.045;T#0ms
+171;44.7;3806.816;T#0ms
+172;44.71;3940.304;T#0ms

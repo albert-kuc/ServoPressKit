@@ -4,17 +4,15 @@ import io
 
 import dash
 from dash.dependencies import Input, Output, State
-import dash_core_components as dcc
-import dash_html_components as html
-import dash_table
+from dash import dcc, html, dash_table
 import plotly.express as px
 
 import pandas as pd
 from helpers import LogFileToDf
 
-
 # alternative layout
 import dash_bootstrap_components as dbc
+
 external_stylesheets = [dbc.themes.LUX]
 
 # external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -103,5 +101,9 @@ def update_output(list_of_contents, list_of_names, list_of_dates):
         return children
 
 
-if __name__ == '__main__':
+def main():
     app.run_server(debug=True)
+
+
+if __name__ == '__main__':
+    main()
